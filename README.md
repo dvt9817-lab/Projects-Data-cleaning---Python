@@ -1,2 +1,2 @@
-# Projects-Data-cleaning---Python
-Proyectos de limpieza y transformación de datos con Python
+# supermarket-sales-cleaning
+Limpiar y preparar un dataset de ventas de supermercado usando Python (Pandas) para su posterior análisis y visualización en Power BI.

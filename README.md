@@ -1,6 +1,6 @@
 # 🛒 Supermarket Sales — Data Cleaning with Python
 
-Proyecto de limpieza y preparación de datos usando Python (Pandas) en Google Colab, como parte de mi portafolio de análisis de datos.
+Proyecto de limpieza y preparación de datos usando Python (Pandas) en Google Colab.
 
 ---
 
@@ -81,7 +81,9 @@ Este proyecto toma un dataset de ventas de supermercado con nombres de columnas 
 | Archivo | Descripción |
 |---|---|
 | `supermarket_limpieza.ipynb` | Notebook con el proceso de limpieza documentado |
+| `Supermarket sales.csv` | Dataset original sin la limpieza |
 | `supermarket_clean.csv` | Dataset limpio listo para análisis |
+
 
 ---
 
@@ -91,4 +93,3 @@ El dataset limpio fue cargado en Power BI para construir un dashboard con análi
 
 ---
 
-*Proyecto desarrollado como parte de mi portafolio de análisis de datos.*
